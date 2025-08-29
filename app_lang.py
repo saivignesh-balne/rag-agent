@@ -25,8 +25,8 @@ from groq import Groq
 # Environment variables (set these before running the app)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "AIzaSyCz0xghwPk9dZZKsUBcjx08pHNkyDD43K0")
-QDRANT_URL = os.getenv("QDRANT_URL", "http://localhost:6333")
-QDRANT_API_KEY = os.getenv("QDRANT_API_KEY", "")  # optional if Qdrant has no auth
+QDRANT_URL = os.getenv("QDRANT_URL", "https://10a0e9fc-b6b2-4326-8f73-a781450e860d.us-west-2-0.aws.cloud.qdrant.io:6333")
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.U__BJhkOdhV0LrWsfLyOKY7NswPZGed5sSKeSOczGSU")  # optional if Qdrant has no auth
 
 # App constants
 APP_TITLE = "PMAY-G AI Assistant"
