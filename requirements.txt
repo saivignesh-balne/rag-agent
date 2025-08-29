@@ -35,4 +35,4 @@ pydub
 python-multipart
 ffmpeg-python
 coqpit-config
-TTS
+tts
