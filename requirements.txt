@@ -1,0 +1,28 @@
+# requirements.txt
+
+# Core application framework
+streamlit
+
+# PDF document processing
+pypdf
+
+# LangChain core and text splitting
+langchain
+
+# Google Gemini for embeddings
+langchain-google-genai
+google-generativeai
+
+# Qdrant vector store client
+qdrant-client
+
+# Groq for the high-speed LLM
+groq
+
+# Recommended for managing environment variables (API keys)
+python-dotenv
+
+# Benchmarking visuals
+pandas
+matplotlib
+langdetect
