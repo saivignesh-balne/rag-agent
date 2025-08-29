@@ -26,3 +26,13 @@ python-dotenv
 pandas
 matplotlib
 langdetect
+fastapi
+uvicorn[standard]
+openai-whisper
+torch
+numpy
+pydub
+python-multipart
+ffmpeg-python
+coqpit-config
+TTS
