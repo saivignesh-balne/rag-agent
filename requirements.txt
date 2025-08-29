@@ -35,4 +35,5 @@ pydub
 python-multipart
 ffmpeg-python
 coqpit-config
-tts
+TTS==0.22.0   # or latest supported version
+
